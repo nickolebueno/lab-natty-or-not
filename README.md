@@ -23,16 +23,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Neste projeto, a proposta é explorar as capacidades da IA generativa para criar imagens altamente realistas que capturam a beleza da natureza em seus detalhes mais sutis. A ideia é utilizar IA para gerar imagens como close-ups de folhas, flores, texturas de cascas de árvores e padrões naturais, utilizando a luz natural e a complexidade das texturas naturais.
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Escolha do Tema: Definição do tema natural que será abordado (ex: folhas com orvalho, flores, padrões de areia, etc.).
+Criação do Prompt: Criação do prompt de texto que será usado para gerar as imagens realistas.
+Geração de Imagens: Usei o DALL·E  para criar as imagens, garantindo que as descrições dos prompts se concentrem em realismo, detalhes e elementos naturais.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
+![Imagem Um](https://github.com/nickolebueno/lab-natty-or-not/blob/25b57f80b9351ee756a2e3f614eb18325393c783/fakeornatty1.jpeg)
+![Imagem Dois](https://github.com/nickolebueno/lab-natty-or-not/blob/25b57f80b9351ee756a2e3f614eb18325393c783/fakeornatty2.jpeg)
+![Imagem Três](https://github.com/nickolebueno/lab-natty-or-not/blob/25b57f80b9351ee756a2e3f614eb18325393c783/fakeornatty3.jpeg)
+
+
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
